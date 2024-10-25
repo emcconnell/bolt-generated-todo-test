@@ -31,7 +31,7 @@ function App() {
           <div className="max-w-md mx-auto">
             <div className="divide-y divide-gray-200">
               <div className="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
-                <h1 className="text-3xl font-extrabold text-center">Todo App!</h1>
+                <h1 className="text-3xl font-extrabold text-center">Todo App</h1>
                 <form onSubmit={addTodo} className="mt-8 space-y-6">
                   <input
                     type="text"
